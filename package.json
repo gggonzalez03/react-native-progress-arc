@@ -20,12 +20,13 @@
     "indicator"
   ],
   "author": "Ging Gonzalez",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gggonzalez03/react-native-progress-arc/issues"
   },
   "homepage": "https://github.com/gggonzalez03/react-native-progress-arc#readme",
-  "dependencies": {
+  "dependencies": {},
+  "peerDependencies": {
     "react": "^16.2.0",
     "react-native": "^0.51.0",
     "react-native-svg": "^6.0.1-rc.1"
