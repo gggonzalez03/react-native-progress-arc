@@ -1,0 +1,33 @@
+{
+  "name": "react-native-progress-arc",
+  "version": "1.0.0",
+  "description": "Highly customizable progress arc created with react-native and react-native-svg",
+  "main": "progress-arc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gggonzalez03/react-native-progress-arc.git"
+  },
+  "keywords": [
+    "progress",
+    "arc",
+    "react",
+    "native",
+    "percentage",
+    "circle",
+    "indicator"
+  ],
+  "author": "Ging Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gggonzalez03/react-native-progress-arc/issues"
+  },
+  "homepage": "https://github.com/gggonzalez03/react-native-progress-arc#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.51.0",
+    "react-native-svg": "^6.0.1-rc.1"
+  }
+}
